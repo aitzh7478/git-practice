@@ -1,0 +1,3 @@
+name: Aigerim
+Hobby: reading books
+skills: speak 4 languages
